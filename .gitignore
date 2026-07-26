@@ -1,0 +1,8 @@
+myenv/
+__pycache__/
+*.pyc
+.env
+chatbot.db
+.streamlit/
+.vscode/
+.idea/
